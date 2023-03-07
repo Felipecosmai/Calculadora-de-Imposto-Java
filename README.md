@@ -1,5 +1,5 @@
 # Calculadora-de-Imposto-Java
-ATENÇÃO! Esse é apenas um projeto amador para efeito de demonstração, jamais utilize-o para calcular seus impostos reais.
+ATENÇÃO! Esse é apenas um projeto para efeito de demonstração, jamais utilize-o para calcular seus impostos reais.
 
 1- Você precisará do JRE que pode ser encontrado aqui: https://www.java.com/pt-BR/download/manual.jsp
 
