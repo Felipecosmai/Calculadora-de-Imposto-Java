@@ -1,8 +1,9 @@
 package main;
 
 /**
- *
+ * @IDE NetBeans 8.2
  * @author Felipe C. Gomes
+ * @JKD version: 1.8.0_351
  */
 
 import java.util.Scanner;
